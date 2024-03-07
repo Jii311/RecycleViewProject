@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecycleViewProject</string>
+    
+    <string-array name="nama_makanan">
+        <item>Bakso</item>
+        <item>Es Pisang Ijo</item>
+        <item>Ketoprak</item>
+        <item>Martabak</item>
+        <item>Mie Aceh</item>
+        <item>Mie Ayam</item>
+        <item>Wedang Ronde</item>
+        <item>Sate</item>
+    </string-array>
+
+    <string-array name="deskripsi_makanan">
+        <item>Bakso adalah hidangan kuliner khas Indonesia yang terkenal dengan cita rasa lezat dan keberagaman varian.</item>
+        <item>Es Pisang Ijo adalah sejenis makanan penutup tradisional dari Indonesia, terutama populer di daerah Makassar, Sulawesi Selatan.</item>
+        <item>Ketoprak adalah hidangan khas Indonesia yang merupakan perpaduan lezat antara tahu, bihun, dan kacang tanah disiram dengan saus kacang yang gurih dan bumbu rempah khas.</item>
+        <item>Martabak adalah sejenis hidangan kuliner yang populer di Indonesia. Terkenal dengan kelezatan dan variasinya, martabak biasanya dibuat dari adonan tepung yang tebal dan dipanggang hingga kering.</item>
+        <item>Mie Aceh adalah hidangan mi khas dari Provinsi Aceh, Indonesia, yang terkenal dengan cita rasa kaya rempah-rempah dan keunikan dalam penyajiannya.</item>
+        <item>Mie Ayam adalah hidangan khas Indonesia yang terdiri dari mi kuning yang disajikan bersama irisan daging ayam, sayuran hijau, dan kuah kaldu yang lezat.</item>
+        <item>Wedang Ronde adalah minuman tradisional Indonesia yang menyuguhkan pengalaman luar biasa dalam setiap tegukan.</item>
+        <item>Sate, sebuah hidangan khas Asia Tenggara, adalah potongan daging yang ditusuk dan dipanggang dengan sempurna di atas arang.</item>
+    </string-array>
+</resources>
